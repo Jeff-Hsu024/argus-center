@@ -1,0 +1,6 @@
+/target/
+/.argus/
+*.log
+*.key
+*.pem
+.env
